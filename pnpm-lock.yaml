@@ -17,7 +17,7 @@ importers:
   packages/scientific-calculator:
     dependencies:
       '@calculator/core':
-        specifier: workspace:*
+        specifier: '*'
         version: link:../calculator
     devDependencies:
       typescript:

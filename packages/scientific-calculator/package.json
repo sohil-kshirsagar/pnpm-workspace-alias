@@ -6,7 +6,7 @@
   "main": "./utils.ts",
   "types": "./utils.ts",
   "dependencies": {
-    "@calculator/core": "workspace:*"
+    "@calculator/core": "*"
   },
   "devDependencies": {
     "typescript": "^5.0.0"

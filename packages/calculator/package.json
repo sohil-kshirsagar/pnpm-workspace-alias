@@ -1,0 +1,11 @@
+{
+  "name": "@calculator/core",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "main": "./utils.ts",
+  "types": "./utils.ts",
+  "devDependencies": {
+    "typescript": "^5.0.0"
+  }
+} 

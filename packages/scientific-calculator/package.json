@@ -1,0 +1,14 @@
+{
+  "name": "@calculator/scientific",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "main": "./utils.ts",
+  "types": "./utils.ts",
+  "dependencies": {
+    "@calculator/core": "workspace:*"
+  },
+  "devDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
